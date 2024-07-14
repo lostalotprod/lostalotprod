@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lostalotprod
+- 👀 I’m interested in ML
+- 🌱 I’m currently learning AI
+- 📫 How to reach me eerdpvs@gmail.com
